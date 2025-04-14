@@ -27,10 +27,6 @@ Fashion MNIST is a dataset of 60,000 training and 10,000 test grayscale images o
 5. **Training & Validation** – Track accuracy and loss over epochs
 6. **Evaluation** – Test set performance and optional confusion matrix
 
-## 🖼️ Sample Output
-
-![accuracy_plot](./images/training_accuracy_plot.png)  
-> *Training vs Validation Accuracy for CNN*
 
 ## 🚀 How to Run
 
